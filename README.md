@@ -1,8 +1,17 @@
 # SNPdiscovery
-Scripts for Methods in Molecular Biology chapter on SNP discovery
 
+DESCRIPTION
+Scripts for SNP discovery from low and high depth of coverage genome sequence data.
+
+AUTHORS
 Phillip A. Morin, Marie Louis, Christopher M. Hill, Benoit Simon-Bouhet, Aimee Lang, Andrew D. Foote 
 
-phillip.morin@noaa.gov
+CONTACT
+submit suggestions and bug reports to https://github.com/PAMorin/SNPdiscovery/issues
+send a pull request to: https://github.com/PAMorin/SNPdiscovery/
+email: phillip.morin@noaa.gov
 
-Scripts for SNP discovery from low and high depth of coverage genome sequence data.
+CITATION
+SNP discovery from single and multiplex genome assemblies of non-model organisms. Morin, P. A., Louise, M., Hill, C. M., Simon-Bouhet, B., Lang, A., Foote, A. D.  Methods in Molecular Biology
+
+
