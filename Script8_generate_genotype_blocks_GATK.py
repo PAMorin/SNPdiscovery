@@ -57,6 +57,7 @@ def write_genotypes(options, contigs, ref_contig, position, reference, alternate
     position = int(position)
 
     if 'N' in sequence[position-(options.distance/2)-1:position+(options.distance/2)] or \
+            'n' in sequence[position-(options.distance/2)-1:position+(options.distance/2)] or \
             len(sequence[position-(options.distance/2)-1:position+(options.distance/2)]) < options.distance + 1:
         return False
 
