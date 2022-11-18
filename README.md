@@ -18,6 +18,6 @@ email: phillip.morin@noaa.gov
 
 CITATION
 
-SNP discovery from single and multiplex genome assemblies of non-model organisms. Morin, P. A., Louise, M., Hill, C. M., Simon-Bouhet, B., Lang, A., Foote, A. D.  Methods in Molecular Biology
+SNP discovery from single and multiplex genome assemblies of non-model organisms. Morin, P. A., Louise, M., Hill, C. M., Simon-Bouhet, B., Lang, A., Foote, A. D.  Methods in Molecular Biology. DOI 10.1007/978-1-4939-7514-3_9
 
 
